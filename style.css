@@ -1,0 +1,97 @@
+.grid{
+    background-color: rgba(84, 38, 211, 0.493);
+    border-radius: 50px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  .dog {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#adec37;
+  }  .frog {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#adec37;
+  }
+.menu{
+  text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400px;
+    color: white;
+}
+body{
+  background-color: rgba(0, 255, 0, 0.288);
+}
